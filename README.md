@@ -14,6 +14,7 @@ Come and see my own VRM model published on Vroid hub https://hub.vroid.com/en/ch
 
 
 Use Cases:
+
   a. Livestreaming: VTubers can use VibeStremr to interact with their audience more dynamically. The app’s real-time tracking capabilities enhance live performances, making them more captivating and engaging.
 
   b. Gaming & Entertainment: VibeStremr allows VTubers or streamers to adopt VR avatars in gameplay, adding layers of immersion and creativity. Whether you're participating in role-playing or competitive events, this app enriches the streaming experience.
