@@ -22,6 +22,7 @@ Use Cases:
   c. Social Media: Content creators can utilize VibeStremr to produce dynamic content for social media platforms like TikTok, Instagram, or even create engaging VR stories.
   
 Features:
+
   a. Motion & Face Tracking: Utilizing Kalidokit library, this prototype uses the pre-trained models such as facemesh, handpose, and holistic, these captures the facial expressions, eye movements, body posture, and hand gestures through a webcam, enabling accurate avatar animation.
 
   b. 3D Avatar Animation: Using Three.js, the VRM avatar model dynamically responds to real-time movements such as head turns, blinking, and lip-syncing.
@@ -29,11 +30,12 @@ Features:
   c. Webcam Integration: The webcam captures the video feed, and processes facial landmarks and pose to animate the avatar smoothly.
 
 Pre-Trained Model
+
 The pre-trained models employed in this prototype through the kalidokit library are facemesh, handpose, and holistic.
 
-a. Facemesh: A model that capture detailed facial expressions and movements, like eyebrow raises, eye blinks, and mouth movements.
-b. Handpose: A model that identifies 21 key points on each hand, enabling to capture hand gestures and finger movements. 
-c. Holistic: A model that combines Facemesh, Handpose, and Pose models to provide full-body motion capture, including face, hands, and skeletal structure. 
+  a. Facemesh: A model that capture detailed facial expressions and movements, like eyebrow raises, eye blinks, and mouth movements.
+  b. Handpose: A model that identifies 21 key points on each hand, enabling to capture hand gestures and finger movements. 
+  c. Holistic: A model that combines Facemesh, Handpose, and Pose models to provide full-body motion capture, including face, hands, and skeletal structure. 
 
 Technical Stack:
   Three.js: Renders the 3D avatar environment.
